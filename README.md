@@ -2,7 +2,7 @@
 
 ![Build](https://github.com/nebula-pillars-of-creation/GoLang/actions/workflows/deploy.yml/badge.svg)
 
-[GoLang Documentation](https://nebula-pillars-of-creation.github.io/GoLang/overview.html)
+[GoLang Documentation](https://nebula-pillars-of-creation.github.io/GoLang)
 
 **Description:**
 
